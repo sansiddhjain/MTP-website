@@ -1,0 +1,28 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "Imported at Thu Apr 26 02:18:58 PDT 2018 from spots.csv.",
+  "exportable": true,
+  "dc:title": "spots",
+  "dc:modified": "2018-04-26T09:19:03Z",
+  "dc:identifier": "160wc9WElpq9daaoAceg6jfTXvf5l_6D_oKS_UlXj",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "double",
+      "name": "col0",
+      "validateData": false,
+      "title": "PKey"
+    },
+    {
+      "datatype": "double",
+      "name": "col1",
+      "validateData": false,
+      "title": "SOL"
+    },
+    {
+      "datatype": "location",
+      "name": "col2",
+      "validateData": false,
+      "title": "geometry"
+    }
+  ]}
+}
